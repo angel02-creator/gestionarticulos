@@ -3,7 +3,7 @@
 $host = "mysql-soto.alwaysdata.net";
 $user = "soto";
 $pass = "clase1234";
-$db = "gestion_articulos";
+$db = "soto_gestionarticulos";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
